@@ -1,6 +1,6 @@
 Feature: Choose Laptop and add to card
 
-  As a user, I want to visit the page, choose laptop and then add it to the card
+  As a user, I want to visit the product page, choose laptop and then add it to the card
 
   Scenario: Choose Laptop category, then choose laptop and add it to the card
     When I choose laptop category
