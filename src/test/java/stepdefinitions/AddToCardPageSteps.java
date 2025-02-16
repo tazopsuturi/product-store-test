@@ -28,4 +28,3 @@ public class AddToCardPageSteps {
 		addToCardPage.pressCartButton();
 	}
 }
-
